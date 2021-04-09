@@ -1,8 +1,8 @@
 <h1>[spring-boot] 개발해보기</h1>
-[티스토리] (https://dchkang83.tistory.com/)
 
+[티스토리 공유](https://dchkang83.tistory.com)
 
-'''groovy
+```groovy
 plugins {
     id 'org.springframework.boot' version '2.4.4'
     id 'io.spring.dependency-management' version '1.0.11.RELEASE'
@@ -31,6 +31,4 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-
-
-'''
+```
